@@ -1,19 +1,16 @@
-colorScheme = "slate"
-
-defaultAppearance = "dark"
+colorScheme = "avocado"
+defaultAppearance = "light"
 autoSwitchAppearance = true
-
 enableSearch = true
 enableCodeCopy = true
-
-mainSections = ["projects"]
+mainSections = ["projects", "posts"]
 
 [header]
 layout = "basic"
 
 [footer]
 showCopyright = true
-showThemeAttribution = false
+showThemeAttribution = true
 
 [homepage]
 layout = "profile"
@@ -22,17 +19,17 @@ showRecent = false
 [article]
 showDate = true
 showAuthor = false
-showBreadcrumbs = false
-showDraftLabel = false
+showBreadcrumbs = true
+showDraftLabel = true
 showEdit = false
-showHeadingAnchors = false
-showPagination = false
+showHeadingAnchors = true
+showPagination = true
 showReadingTime = false
 showTableOfContents = true
-showTaxonomies = false
+showTaxonomies = true
 
 [list]
-showBreadcrumbs = false
+showBreadcrumbs = true
 showSummary = true
 showTableOfContents = false
 
