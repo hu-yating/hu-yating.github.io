@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hu-yating.github.io/sitemap.xml
