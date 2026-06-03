@@ -1,56 +1,50 @@
 +++
-title = "Projects"
-description = "Selected academic and data science projects"
+title = "Selected Work"
+description = "Selected research, analytics, and data science work"
 showDate = false
 +++
 
-## [Data Mining](https://github.com/hu-yating/ID2222DataMining)
+This section highlights selected research and applied data science work. Earlier technical projects are included selectively where they show relevant depth, publication history, or domain experience.
 
-**Contributor · November 2021 - Present**
+## Financial Crime Machine Learning
 
-Five small projects, namely finding textually similar documents, discovery of frequent itemsets and assocation rules, mining data streams, graph spectra, and k-way graph partitioning using JaBeJa.
+**Data Scientist · May 2025 - Present**
 
-Tags: academic, data-mining
+Applying machine learning in a regulated financial services environment to support financial crime detection and risk-focused decision-making.
 
-## [Steady the Flow](/files/SteadytheFlow.pdf)
+Tags: professional, financial-crime, machine-learning
 
-**Contributor · September 2019 - November 2019**
+## Enterprise Data & AI Consulting
 
-Analysis of Den Bosch waste water treatment plant.
+**Data & AI Consultant · September 2022 - April 2025**
 
-Tags: academic
+Designed and delivered cloud-based data, analytics, and AI solutions for enterprise customers using Microsoft technologies, with work spanning solution design, technical documentation, implementation, and stakeholder alignment.
 
-## [Does Twitter Fly?](/files/DoesTwitterFly.pdf)
+Tags: professional, azure, data-platforms, analytics
 
-**Contributor · April 2018 - June 2018**
+## Motion-Based Delirium Detection
 
-American Airlines Twitter team performance analysis.
+**Data Scientist · September 2021 - August 2022**
 
-Tags: academic
+Worked on healthcare research using accelerometer and 3D depth camera data to derive and benchmark motion features for delirium detection.
+
+Tags: professional, healthcare, machine-learning
 
 ## [Visualizing Dynamic Graphs with Heat Triangles](https://dl.acm.org/doi/abs/10.1145/3430036.3430053)
 
 **Creator · February 2020 - June 2020**
 
-An overview-based interactive visualization tool for temporally long dynamic graph sequences is implemented and applied on US domestic flight data.
+Designed and implemented an overview-based interactive visualization tool for temporally long dynamic graph sequences, applied to US domestic flight data.
 
-Tags: academic, bachelor-thesis
+Tags: research, visualization, publication
 
-## [Business Process Intelligence 2018](/files/ProcessMining.pdf)
+## [Data Mining](https://github.com/hu-yating/ID2222DataMining)
 
-**Contributor · February 2019 - April 2019**
+**Contributor · November 2021 - Present**
 
-The goal of this project was to predict the remaining cycle time of a request into an administrative system. Different models were designed and tested on the datasets provided by the BPI Challenges 2012 and 2019.
+Projects covering textually similar documents, frequent itemsets and association rules, mining data streams, graph spectra, and k-way graph partitioning using JaBeJa.
 
-Tags: academic, process-mining
-
-## [Pharos - Guided by Light](/files/pharos.pdf)
-
-**Contributor · February 2021 - July 2021**
-
-A bracelet creating the overall festival experience by connecting to stage lighting and guiding you to the bar with shortest line.
-
-Tags: academic
+Tags: research, data-mining
 
 ## [Big Data Management](/files/bigdata.pdf)
 
@@ -58,15 +52,15 @@ Tags: academic
 
 In this project we use the Spark platform for processing massive data and discovering minimal non-trivial functional dependencies and soft functional dependencies.
 
-Tags: academic
+Tags: applied analytics
 
 ## [Data Intensive Computing](https://github.com/hu-yating/DataIntensiveComputing)
 
-**Contributor · Augustus 2021 - October 2021**
+**Contributor · August 2021 - October 2021**
 
 Two labs regarding HDFS, HBase, Hadoop, MapReduce, Spark, Spark SQL, Spark Streaming, Structured Streaming, GraphX and project regarding real-time Bitcoin price predictions with news sentiment analysis.
 
-Tags: academic
+Tags: data engineering, streaming analytics
 
 ## [HoodFood by Diverse IT](https://diverse-it.blogspot.com/)
 
@@ -74,5 +68,4 @@ Tags: academic
 
 HoodFood, a comparison tool which allows customers to compare prices between groceries easily, started by Diverse IT.
 
-Tags: academic
-
+Tags: product analytics

@@ -1,11 +1,10 @@
 +++
 title = "Ya Ting Hu"
-description = "Portfolio and blog of Ya Ting Hu"
+description = "Data Scientist specializing in FinCrime ML, GenAI, Responsible AI, and cloud-scale analytics."
 +++
 
-I turn complex data into practical, real-world solutions.
+I design and deliver practical Data & AI solutions across financial crime, enterprise cloud, healthcare, and analytics environments.
 
-- Solving real-world problems with AI
-- Turning complex data into insights
-- Building solutions that drive impact
-
+- Data Scientist in FinCrime ML at Rabobank
+- Former Data & AI Consultant at Microsoft
+- Focused on GenAI, Responsible AI, machine learning, and cloud-scale analytics

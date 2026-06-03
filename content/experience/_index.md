@@ -4,35 +4,43 @@ description = "Professional experience"
 showDate = false
 +++
 
+## Data Scientist, [Rabobank](https://www.rabobank.com/)
+
+**May 2025 - Present · Utrecht, Netherlands**
+
+Working in FinCrime ML, applying machine learning to financial crime detection and risk-focused decision support.
+
+- Develop and improve machine learning solutions for financial crime use cases.
+- Work with data, model, and domain stakeholders to translate risk and compliance needs into practical analytical solutions.
+- Contribute to responsible, explainable, and production-aware model development in a regulated financial services environment.
+- Apply data science methods across model experimentation, validation, monitoring, and stakeholder communication.
+
 ## Data & AI Consultant, [Microsoft](https://www.microsoft.com/en-us/industrysolutions?activetab=pivot1%3aprimaryr8)
 
-**Sept 2022 - April 2025 · Schiphol, The Netherlands**
+**Sept 2022 - April 2025 · Schiphol, North Holland, Netherlands**
 
-Industry Solutions is a global organization comprising over 16,000 strategic sellers, industry experts, elite engineers, and world-class architects, consultants, and delivery experts. Together, we bring Microsoft's mission of empowerment-and cutting-edge technology-to life for our customers and partners, driving value across their digital transformation journeys.
+Delivered Data & AI consulting engagements for enterprise customers, translating business needs into technical solution designs and implementation plans across data platforms, business intelligence, advanced analytics, and AI.
 
-- Enhance customer experiences through innovative practices.
-- Translate business requirements into technology specifications for contracts and statements of work.
-- Develop high-level and detailed design documents; implement advanced solutions using the latest technologies.
-- Optimize customer data solutions and infrastructure.
-- Lead large data platform, business intelligence, and advanced analytics projects, ensuring high customer satisfaction throughout the project lifecycle.
-- Commit to continuous professional growth and mentor fellow consultants.
+- Led Data & AI solution design across customer engagements, connecting business requirements with scalable technical architectures.
+- Developed high-level and detailed design documentation for statements of work, delivery planning, and stakeholder alignment.
+- Implemented modern data and analytics solutions using Microsoft cloud technologies.
+- Supported projects across data platforms, business intelligence, and advanced analytics with a focus on delivery quality and customer value.
+- Mentored fellow consultants and contributed to continuous improvement across project teams.
 
 ## Data Scientist, [Philips](https://www.philips.com)
 
-**Sept 2021 - Aug 2022 · Eindhoven, The Netherlands**
+**Sept 2021 - Aug 2022 · Eindhoven, North Brabant, Netherlands**
 
-At Philips, we strive to improve people's health and well-being through meaningful innovation, with a goal of enhancing 2.5 billion lives annually by 2030, including 400 million in underserved communities.
+Worked on motion-based delirium detection research, combining signal processing, feature engineering, and machine learning methods in a healthcare innovation context.
 
 - Reviewed existing literature on motion-based delirium detection methods.
 - Derived features indicative of delirium using accelerometer and 3D depth camera data.
-- Benchmarked the performance of motion features across different input signals.
-- Documented findings and provided detailed reports on scientific and algorithmic methodologies.
+- Benchmarked motion feature performance across different input signals.
+- Documented scientific and algorithmic findings for research and development stakeholders.
 
 ## CRM Data Analyst, [A.S. Watson](https://www.aswatson.com)
 
-**Mar 2021 - Aug 2021 · Vilvoorde, Belgium**
-
-At ASW, we aspire to be the world's leading health, beauty, and lifestyle retailer, striving to deliver more to our customers, colleagues, and communities.
+**Mar 2021 - Aug 2021 · Vilvoorde, Flanders, Belgium**
 
 - Supported data analysts in conducting and presenting analyses to various stakeholders.
 - Conducted introductory sessions on Tableau for new colleagues and departments.
@@ -41,17 +49,16 @@ At ASW, we aspire to be the world's leading health, beauty, and lifestyle retail
 
 ## Teaching Assistant, [Eindhoven University of Technology](https://www.tue.nl)
 
-**Sep 2018 - May 2021 · Eindhoven, The Netherlands**
+**Sep 2018 - May 2021 · Eindhoven, North Brabant, Netherlands**
 
 Department of Mathematics and Computer Science.
 
-- Collaborated with the instructor to teach and grade coursework for over 150 students in courses including Calculus B, Logic and Set Theory, Programming in Python, and Data Science Research Methods.
+- Supported teaching and assessment for more than 150 students across technical courses including Python programming, data science research methods, logic, and mathematics.
 
 ## Research Assistant, [Eindhoven University of Technology](https://www.tue.nl/en/our-university/departments/built-environment/research/)
 
-**Sep 2019 - Apr 2020 · Eindhoven, The Netherlands**
+**Sep 2019 - Apr 2020 · Eindhoven, North Brabant, Netherlands**
 
 Department of the Built Environment.
 
 - Conducted econometric research combined with machine learning techniques using Python, R, and Stata, focusing on Real Estate Management and Development.
-

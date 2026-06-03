@@ -4,23 +4,23 @@ pageRef = "about"
 weight = 10
 
 [[main]]
-name = "Skills"
-pageRef = "skills"
+name = "Experience"
+pageRef = "experience"
 weight = 20
 
 [[main]]
-name = "Experience"
-pageRef = "experience"
+name = "Selected Work"
+pageRef = "projects"
 weight = 30
+
+[[main]]
+name = "Skills"
+pageRef = "skills"
+weight = 40
 
 [[main]]
 name = "Education"
 pageRef = "education"
-weight = 40
-
-[[main]]
-name = "Projects"
-pageRef = "projects"
 weight = 50
 
 [[main]]
@@ -38,4 +38,3 @@ weight = 10
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/hu-yating"
 weight = 20
-
