@@ -1,0 +1,12 @@
+[goldmark]
+[goldmark.renderer]
+unsafe = true
+
+[tableOfContents]
+startLevel = 2
+endLevel = 6
+ordered = false
+
+[highlight]
+noClasses = false
+

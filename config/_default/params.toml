@@ -1,0 +1,38 @@
+colorScheme = "avocado"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+mainSections = ["projects", "posts"]
+
+[header]
+layout = "basic"
+
+[footer]
+showCopyright = true
+showThemeAttribution = true
+
+[homepage]
+layout = "profile"
+showRecent = false
+
+[article]
+showDate = true
+showAuthor = false
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+showHeadingAnchors = true
+showPagination = true
+showReadingTime = false
+showTableOfContents = true
+showTaxonomies = true
+
+[list]
+showBreadcrumbs = true
+showSummary = true
+showTableOfContents = false
+
+[sitemap]
+excludedKinds = ["taxonomy", "term"]
+

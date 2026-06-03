@@ -1,0 +1,19 @@
+baseURL = "https://hu-yating.github.io/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Portfolio of Ya Ting Hu"
+
+enableEmoji = true
+enableRobotsTXT = true
+summaryLength = 0
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[services]
+[services.googleAnalytics]
+ID = "UA-122321624-2"

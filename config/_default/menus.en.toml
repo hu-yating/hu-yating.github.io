@@ -1,0 +1,41 @@
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 10
+
+[[main]]
+name = "Skills"
+pageRef = "skills"
+weight = 20
+
+[[main]]
+name = "Experience"
+pageRef = "experience"
+weight = 30
+
+[[main]]
+name = "Education"
+pageRef = "education"
+weight = 40
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+weight = 50
+
+[[main]]
+identifier = "github"
+pre = "github"
+url = "https://www.github.com/hu-yating"
+weight = 90
+
+[[footer]]
+name = "GitHub"
+url = "https://www.github.com/hu-yating"
+weight = 10
+
+[[footer]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/hu-yating"
+weight = 20
+

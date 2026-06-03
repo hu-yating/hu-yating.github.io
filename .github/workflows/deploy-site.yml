@@ -1,6 +1,5 @@
 name: Deploy to Github Pages
 
-# run when a commit is pushed to "source" branch
 on:
   push:
     branches:
@@ -10,24 +9,27 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    # checkout to the commit that has been pushed
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
       with:
-        submodules: true  # Fetch Hugo themes (true OR recursive)
-        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-    
-    # install Hugo
+        fetch-depth: 0
+
+    - name: Setup Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.22'
+
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: '0.77.0'
+        hugo-version: 'latest'
         extended: true
 
-    # build website
+    - name: Fetch Hugo modules
+      run: hugo mod get
+
     - name: Build
       run: hugo --minify
 
-    # push the generated content into the `main` (former `master`) branch.
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
