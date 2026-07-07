@@ -7,13 +7,13 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-description = "Data Scientist specializing in FinCrime ML, GenAI, Responsible AI, and cloud-scale analytics."
+description = "Data Scientist and AI Engineer specializing in FinCrime ML, GenAI, Responsible AI, and strategic analytics."
 
 [author]
 name = "Ya Ting Hu"
 image = "images/author/profile.jpeg"
-headline = "Data Scientist | FinCrime ML | GenAI & Responsible AI"
-bio = "Data Scientist working in FinCrime ML at Rabobank, with experience across enterprise Data & AI consulting, healthcare research, GenAI, Responsible AI, and cloud-scale analytics."
+headline = "Data Scientist & AI Engineer | FinCrime ML | GenAI & Responsible AI"
+bio = "Data Scientist working in FinCrime ML at Rabobank, with experience across enterprise Data & AI consulting, strategic analytics, healthcare research, GenAI, Responsible AI, and enterprise-scale delivery."
 links = [
   { github = "https://www.github.com/hu-yating" },
   { linkedin = "https://www.linkedin.com/in/hu-yating" },

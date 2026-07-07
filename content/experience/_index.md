@@ -8,44 +8,56 @@ showDate = false
 
 **May 2025 - Present · Utrecht, Netherlands**
 
-Working in FinCrime ML, applying machine learning to financial crime detection and risk-focused decision support in a regulated financial services environment.
+Working in FinCrime ML, applying machine learning, behavioral analytics, dashboarding, and GenAI prototyping to financial crime detection and risk-focused decision support.
 
-- Develop and improve machine learning solutions for financial crime use cases.
-- Translate risk and compliance needs into practical analytical solutions with data, model, and domain stakeholders.
-- Contribute to responsible, explainable, and production-aware model development.
-- Apply data science methods across model experimentation, validation, monitoring, and stakeholder communication.
+- Partner with second-line compliance leadership to translate complex risk data into clear, actionable insights through interactive Power BI dashboards.
+- Lead SQL-driven behavioral analytics workstreams across customer transaction data, structuring project plans from problem definition to insight delivery.
+- Architect and deploy scalable ML solutions for financial crime and AML detection, shaping data-backed risk mitigation strategies.
+- Design MLOps pipelines and GenAI prototypes that accelerate analysis and turn findings into production-ready recommendations.
 
 ## Data & AI Consultant, [Microsoft](https://www.microsoft.com/en-us/industrysolutions?activetab=pivot1%3aprimaryr8)
 
-**Sept 2022 - April 2025 · Schiphol, North Holland, Netherlands**
+**Sept 2023 - Apr 2025 · Schiphol, North Holland, Netherlands**
 
-Delivered Data & AI consulting engagements for enterprise customers, translating business needs into technical solution designs and implementation plans across data platforms, business intelligence, advanced analytics, and AI.
+Combined hands-on delivery with pre-sales and commercial scoping as part of Microsoft's Industry Services Delivery organization, working with enterprise and public-sector clients.
 
-- Led Data & AI solution design across customer engagements, connecting business requirements with scalable technical architectures.
-- Developed high-level and detailed design documentation for statements of work, delivery planning, and stakeholder alignment.
-- Implemented modern data and analytics solutions using Microsoft cloud technologies.
-- Supported projects across data platforms, business intelligence, and advanced analytics with a focus on delivery quality and customer value.
-- Mentored fellow consultants and contributed to continuous improvement across project teams.
+- Authored and shaped Statements of Work, translating client needs and proposed technical solutions into clear commercial scope, pricing, and delivery plans.
+- Partnered with financial-services clients and senior stakeholders to deliver custom NLP and data solutions that improved operational efficiency and decision-making.
+- Led design and deployment of AI models and large-scale data pipelines using Python, SQL, and Azure Databricks.
+- Supported dashboard migrations from Qlik to Power BI, building reporting cadences that gave business and compliance leaders clearer performance visibility.
+- Drove AI adoption and Responsible AI strategy during pre-sales engagements, including governance alignment with EU AI Act requirements.
+
+## Associate Consultant, [Microsoft](https://www.microsoft.com/en-us/industrysolutions?activetab=pivot1%3aprimaryr8)
+
+**Sept 2022 - Aug 2023 · Schiphol, North Holland, Netherlands**
+
+Supported Data & AI delivery and pre-sales activities, helping translate client requirements into commercial proposals and technical implementations.
+
+- Supported Statement of Work scoping alongside delivery work, connecting client requirements with practical solution plans.
+- Implemented SQL- and Python-based solutions that helped clients translate data into informed business decisions.
+- Optimized data infrastructure and pipelines to improve scalability, performance, and cost-efficiency.
+- Designed and prototyped proofs of concept with an agile approach to demonstrate analytics and AI value.
+- Supported AI/ML adoption and project execution across multiple client teams and stakeholder groups.
 
 ## Data Scientist, [Philips](https://www.philips.com)
 
-**Sept 2021 - Aug 2022 · Eindhoven, North Brabant, Netherlands**
+**Jul 2021 - Aug 2022 · Eindhoven, North Brabant, Netherlands**
 
-Worked on motion-based delirium detection research, combining signal processing, feature engineering, and machine learning methods in a healthcare innovation context.
+Worked on healthcare AI research with Radboud UMC, translating model outputs and data insights into actionable recommendations for cross-functional teams.
 
-- Reviewed existing literature on motion-based delirium detection methods.
+- Developed machine learning models and applied computer vision techniques to improve feature extraction and diagnostic accuracy.
 - Derived features indicative of delirium using accelerometer and 3D depth camera data.
 - Benchmarked motion feature performance across different input signals.
 - Documented scientific and algorithmic findings for research and development stakeholders.
 
-## CRM Data Analyst, [A.S. Watson](https://www.aswatson.com)
+## CRM Data Analyst, [A.S. Watson Health & Beauty Benelux B.V.](https://www.aswatson.com)
 
-**Mar 2021 - Aug 2021 · Vilvoorde, Flanders, Belgium**
+**May 2020 - Jul 2021 · Vilvoorde, Flanders, Belgium**
 
-- Supported data analysts in conducting and presenting analyses to various stakeholders.
-- Conducted introductory sessions on Tableau for new colleagues and departments.
-- Assisted in updating recurring reports and suggested improvements for report automation and process efficiency.
-- Worked with Adobe Campaign for customer campaign selections and retail research techniques, including A/B testing.
+- Used SQL and Tableau to analyze customer data and generate actionable insight for marketing and CRM strategy.
+- Built dashboards to track sales, promotions, and engagement metrics, giving business teams clear visibility into performance.
+- Automated reporting processes, improving efficiency and consistency of business analytics delivery.
+- Partnered directly with business stakeholders on campaign selections, retail research, and A/B testing.
 
 ## Teaching Assistant, [Eindhoven University of Technology](https://www.tue.nl)
 

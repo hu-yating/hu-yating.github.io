@@ -18,6 +18,8 @@ html {
 
 body {
   background:
+    linear-gradient(rgba(2, 12, 27, 0.88), rgba(2, 12, 27, 0.94)),
+    url("/images/site/background.jpg") top center / cover fixed,
     radial-gradient(circle at 18% 12%, rgba(100, 255, 218, 0.07), transparent 28rem),
     radial-gradient(circle at 82% 8%, rgba(59, 130, 246, 0.08), transparent 30rem),
     linear-gradient(180deg, var(--yat-dark-navy) 0%, var(--yat-navy) 42%, #071426 100%);
@@ -147,6 +149,7 @@ section {
   border-radius: 8px;
   box-shadow: var(--yat-card-shadow);
   transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+  overflow: hidden;
 }
 
 .work-card:hover {
@@ -168,6 +171,35 @@ section {
   border: 0;
   padding-bottom: 0;
   font-size: 1.25rem;
+}
+
+.work-card-image,
+.work-card-visual {
+  width: calc(100% + 2.7rem);
+  height: 140px;
+  margin: -1.35rem -1.35rem 1.05rem;
+  object-fit: cover;
+  border-bottom: 1px solid rgba(100, 255, 218, 0.12);
+  opacity: 0.72;
+  filter: saturate(0.9) contrast(1.05);
+}
+
+.work-card-featured .work-card-image {
+  height: 180px;
+}
+
+.work-card-visual {
+  background:
+    radial-gradient(circle at 30% 30%, rgba(100, 255, 218, 0.32), transparent 32%),
+    radial-gradient(circle at 72% 40%, rgba(96, 165, 250, 0.26), transparent 34%),
+    linear-gradient(135deg, rgba(17, 34, 64, 0.95), rgba(2, 12, 27, 0.95));
+}
+
+.work-card-visual-health {
+  background:
+    radial-gradient(circle at 20% 24%, rgba(100, 255, 218, 0.28), transparent 30%),
+    radial-gradient(circle at 74% 70%, rgba(167, 243, 208, 0.16), transparent 36%),
+    linear-gradient(135deg, rgba(17, 34, 64, 0.95), rgba(9, 44, 57, 0.72));
 }
 
 .work-card p {
@@ -244,6 +276,56 @@ section {
   color: var(--yat-light-slate);
 }
 
+.personal-panel {
+  display: grid;
+  grid-template-columns: minmax(180px, 240px) 1fr;
+  gap: 1.4rem;
+  align-items: center;
+  margin: 2rem 0;
+  padding: 1.3rem;
+  background:
+    linear-gradient(135deg, rgba(100, 255, 218, 0.1), transparent 34%),
+    rgba(17, 34, 64, 0.78);
+  border: 1px solid rgba(100, 255, 218, 0.14);
+  border-radius: 8px;
+  box-shadow: var(--yat-card-shadow);
+}
+
+.personal-photo-wrap {
+  position: relative;
+}
+
+.personal-photo-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 12px -12px -12px 12px;
+  border: 1px solid var(--yat-mint);
+  border-radius: 8px;
+  opacity: 0.5;
+  z-index: 0;
+}
+
+.personal-photo {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 22px 50px rgba(2, 12, 27, 0.55);
+}
+
+.personal-copy h2 {
+  margin-top: 0.25rem;
+  border: 0;
+  padding: 0;
+}
+
+.personal-copy p {
+  color: var(--yat-light-slate);
+}
+
 .skill-card ul {
   margin-top: 1rem;
 }
@@ -276,8 +358,22 @@ img.rounded-full {
       linear-gradient(180deg, var(--yat-dark-navy) 0%, var(--yat-navy) 100%);
   }
 
-  .prose h2 + p,
-  .prose h2 + p + ul {
+  .prose > h2 + p,
+  .prose > h2 + p + ul {
     padding: 0.9rem;
+  }
+
+  .personal-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .personal-photo-wrap {
+    max-width: 240px;
+    margin: 0 auto;
+  }
+
+  .work-card-image,
+  .work-card-visual {
+    height: 120px;
   }
 }
