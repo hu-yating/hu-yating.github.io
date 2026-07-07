@@ -1,12 +1,12 @@
-colorScheme = "avocado"
-defaultAppearance = "light"
-autoSwitchAppearance = true
+colorScheme = "yat-navy"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
-mainSections = ["projects", "posts"]
+mainSections = ["projects"]
 
 [header]
-layout = "basic"
+layout = "fixed"
 
 [footer]
 showCopyright = true
@@ -35,4 +35,3 @@ showTableOfContents = false
 
 [sitemap]
 excludedKinds = ["taxonomy", "term"]
-

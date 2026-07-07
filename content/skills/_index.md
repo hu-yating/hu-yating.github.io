@@ -4,29 +4,44 @@ description = "Core data science, AI, and cloud capabilities"
 showDate = false
 +++
 
-## Core Strengths
+<div class="skill-grid">
+  <section class="skill-card">
+    <p class="work-kicker">Core strengths</p>
+    <h2>Applied Data Science</h2>
+    <ul>
+      <li>Financial crime machine learning and risk-focused analytics</li>
+      <li>Machine learning, NLP, computer vision, and statistical modeling</li>
+      <li>Feature engineering, model evaluation, validation, and monitoring</li>
+    </ul>
+  </section>
 
-- Financial crime machine learning and risk-focused analytics
-- Generative AI, LLMs, prompt engineering, and Responsible AI
-- Machine learning, NLP, computer vision, and statistical modeling
-- Azure data platforms, analytics architecture, and cloud delivery
-- Stakeholder-facing solution design, documentation, and consulting
+  <section class="skill-card">
+    <p class="work-kicker">Modern AI</p>
+    <h2>GenAI & Responsible AI</h2>
+    <ul>
+      <li>Generative AI, LLMs, prompt engineering, and NLP</li>
+      <li>Responsible AI, explainability, and model governance</li>
+      <li>Production-aware ML and stakeholder-facing communication</li>
+    </ul>
+  </section>
 
-## Data Science and AI
+  <section class="skill-card">
+    <p class="work-kicker">Cloud delivery</p>
+    <h2>Azure Data Platforms</h2>
+    <ul>
+      <li>Microsoft Azure, Azure Machine Learning, and Azure Databricks</li>
+      <li>Azure Data Factory, Synapse Analytics, and Data Lake</li>
+      <li>Azure DevOps, Git, Docker, Kubernetes, and Microsoft Purview</li>
+    </ul>
+  </section>
 
-- Python, SQL, R
-- PyTorch, TensorFlow, Keras, scikit-learn
-- NLP, GenAI, computer vision, feature engineering, model evaluation
-- Responsible AI, explainability, model governance, and production-aware ML
-
-## Cloud, Data, and Engineering
-
-- Microsoft Azure, Azure Machine Learning, Azure Databricks
-- Azure Data Factory, Azure Synapse Analytics, Azure Data Lake
-- Azure DevOps, Git, Docker, Kubernetes
-- Microsoft Purview, data governance, and enterprise data platforms
-
-## Analytics and Visualization
-
-- Power BI, Tableau, reporting automation, and stakeholder dashboards
-- Experimentation, A/B testing, CRM analytics, and decision-support analysis
+  <section class="skill-card">
+    <p class="work-kicker">Tools</p>
+    <h2>Programming & Analytics</h2>
+    <ul>
+      <li>Python, SQL, R, PyTorch, TensorFlow, Keras, scikit-learn</li>
+      <li>Power BI, Tableau, reporting automation, and dashboards</li>
+      <li>Experimentation, A/B testing, CRM analytics, and decision support</li>
+    </ul>
+  </section>
+</div>

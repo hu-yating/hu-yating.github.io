@@ -11,3 +11,21 @@ Across financial services, enterprise consulting, healthcare, CRM analytics, and
 My recent focus includes financial crime machine learning, generative AI, large language models, NLP, Azure-based data and analytics platforms, and model governance. I enjoy working close to both technical teams and stakeholders: translating needs into architecture, building reliable analytical workflows, and keeping ethical, explainable AI practices part of the delivery process.
 
 I am especially interested in AI systems that are useful beyond a prototype: solutions that improve decisions, reduce operational friction, and create measurable value while remaining understandable and responsible.
+
+<div class="focus-grid">
+  <div class="focus-card">
+    <span>01</span>
+    <h2>FinCrime ML</h2>
+    <p>Machine learning for financial crime detection, risk-focused analytics, and regulated decision-support environments.</p>
+  </div>
+  <div class="focus-card">
+    <span>02</span>
+    <h2>Responsible AI</h2>
+    <p>Explainability, model governance, and practical AI delivery that remains understandable to stakeholders.</p>
+  </div>
+  <div class="focus-card">
+    <span>03</span>
+    <h2>Cloud Data Platforms</h2>
+    <p>Azure-based data, analytics, and AI solutions designed for enterprise-scale delivery.</p>
+  </div>
+</div>

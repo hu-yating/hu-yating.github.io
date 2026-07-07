@@ -5,8 +5,8 @@ description = "Data Scientist specializing in FinCrime ML, GenAI, Responsible AI
 
 I design and deliver practical Data & AI solutions across financial crime, enterprise cloud, healthcare, and analytics environments.
 
-Data Scientist in FinCrime ML at Rabobank
+**Data Scientist in FinCrime ML at Rabobank** with previous experience as a **Data & AI Consultant at Microsoft** and **Data Scientist at Philips**.
 
-Former Data & AI Consultant at Microsoft
+I focus on machine learning systems that are useful beyond a prototype: explainable, production-aware, and grounded in real business and risk decisions.
 
-Focused on GenAI, Responsible AI, machine learning, and cloud-scale analytics
+`FinCrime ML` · `Responsible AI` · `GenAI & LLMs` · `Azure Data Platforms` · `Machine Learning`
