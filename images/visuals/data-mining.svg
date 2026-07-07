@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Data mining visual</title>
+  <desc id="desc">Abstract document similarity and graph partitioning visual.</desc>
+  <rect width="960" height="420" fill="#071426"/>
+  <g opacity="0.9">
+    <rect x="96" y="118" width="170" height="210" rx="12" fill="#112240" stroke="#64ffda"/>
+    <rect x="318" y="80" width="170" height="248" rx="12" fill="#112240" stroke="#60a5fa"/>
+    <rect x="540" y="118" width="170" height="210" rx="12" fill="#112240" stroke="#64ffda"/>
+    <path d="M128 166h102M128 204h72M128 242h112M350 136h102M350 174h64M350 212h118M572 166h102M572 204h72M572 242h112" stroke="#a8b2d1" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g stroke="#64ffda" stroke-width="3" fill="#0a192f">
+    <path d="M710 210c52-74 102-74 150 0-48 72-98 72-150 0Z" fill="none"/>
+    <circle cx="760" cy="184" r="9"/><circle cx="812" cy="184" r="9"/><circle cx="786" cy="240" r="9"/>
+    <path d="M760 184l52 0M760 184l26 56M812 184l-26 56"/>
+  </g>
+  <text x="72" y="70" fill="#ccd6f6" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">Data Mining</text>
+  <text x="72" y="102" fill="#a8b2d1" font-family="Inter, Arial, sans-serif" font-size="18">similarity · itemsets · streams · graph partitioning</text>
+</svg>

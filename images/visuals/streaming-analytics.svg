@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Streaming analytics visual</title>
+  <desc id="desc">Abstract real-time sentiment and price signal visualization.</desc>
+  <rect width="960" height="420" fill="#071426"/>
+  <g fill="none" stroke-width="4" stroke-linecap="round">
+    <path d="M80 282c88-82 148 54 234-24s148-102 244-30 176 66 322-70" stroke="#64ffda"/>
+    <path d="M80 212c86-22 132-86 226-34s146 16 212-34 140-74 260-22" stroke="#60a5fa" opacity="0.85"/>
+  </g>
+  <g fill="#112240" stroke="#64ffda" stroke-width="3">
+    <circle cx="180" cy="250" r="18"/><circle cx="314" cy="258" r="18"/><circle cx="558" cy="228" r="18"/><circle cx="880" cy="158" r="18"/>
+  </g>
+  <g transform="translate(650 210)" fill="#112240" stroke="#60a5fa" stroke-width="3">
+    <rect width="180" height="92" rx="14"/>
+    <path d="M34 58h112M34 34h74" stroke="#a8b2d1" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="72" y="84" fill="#ccd6f6" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">Streaming Analytics</text>
+  <text x="72" y="122" fill="#a8b2d1" font-family="Inter, Arial, sans-serif" font-size="18">real-time signals · Spark Streaming · sentiment</text>
+</svg>
