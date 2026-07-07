@@ -1,6 +1,6 @@
 colorScheme = "yat-navy"
 defaultAppearance = "dark"
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 mainSections = ["projects"]

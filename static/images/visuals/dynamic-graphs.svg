@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dynamic graph visualization visual</title>
+  <desc id="desc">Abstract heat triangle and graph visualization motif.</desc>
+  <rect width="960" height="420" fill="#071426"/>
+  <g transform="translate(110 84)">
+    <path d="M0 248L142 0l142 248Z" fill="#112240" stroke="#64ffda" stroke-width="3"/>
+    <path d="M42 220L142 46l100 174Z" fill="#0f766e" opacity="0.55"/>
+    <path d="M82 196L142 92l60 104Z" fill="#64ffda" opacity="0.75"/>
+  </g>
+  <g stroke="#64ffda" stroke-width="3" fill="#0a192f">
+    <line x1="496" y1="120" x2="620" y2="170"/>
+    <line x1="620" y1="170" x2="730" y2="112"/>
+    <line x1="620" y1="170" x2="760" y2="260"/>
+    <line x1="496" y1="120" x2="548" y2="278"/>
+    <line x1="548" y1="278" x2="760" y2="260"/>
+    <circle cx="496" cy="120" r="18"/>
+    <circle cx="620" cy="170" r="18"/>
+    <circle cx="730" cy="112" r="18"/>
+    <circle cx="760" cy="260" r="18"/>
+    <circle cx="548" cy="278" r="18"/>
+  </g>
+  <text x="72" y="364" fill="#ccd6f6" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">Dynamic Graphs</text>
+  <text x="72" y="392" fill="#a8b2d1" font-family="Inter, Arial, sans-serif" font-size="18">temporal data · heat triangles · research visualization</text>
+</svg>
